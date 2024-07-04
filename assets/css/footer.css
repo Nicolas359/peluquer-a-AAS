@@ -15,3 +15,8 @@
 .footer__icon{
     margin-right: 1.25rem;
 }
+
+.footer__icon:hover{
+    border-radius: 50% ;
+    background-color: #ffffff44
+}

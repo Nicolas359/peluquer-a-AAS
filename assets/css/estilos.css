@@ -146,10 +146,39 @@ a {
     .product p{
         font-size: 5vw
     }
+
+    .site-name{
+        font-size: 5vw;
+    }
+    .bs-item{
+        font-size: 2vw;
+    }
 }
 
 @media screen and (min-width:768px) {
     .product p{
         font-size: 3vw
     }
+
+    .site-name{
+        font-size: 2vw;
+    }
+
+    .bs-item{
+        font-size: 1vw;
+    }
 }
+
+@media screen and (min-width:968px) {
+    .product p{
+        font-size: 3vw
+    }
+    .site-name{
+        font-size: 2vw;
+    }
+
+    .bs-item{
+        font-size: 1vw;
+    }
+}
+
